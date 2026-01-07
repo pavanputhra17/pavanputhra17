@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Pavanputhra
 
-<!--
-**pavanputhra17/pavanputhra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student. Vibe coder.  
+I don’t wait for permission — I build, break, and figure it out.
 
-Here are some ideas to get you started:
+I experiment with AI, LLMs, and systems even when I don’t fully know what I’m doing yet.  
+That’s how learning actually happens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚔️ What I’m about
+- Learning by doing instead of watching tutorials forever  
+- Building things even if they start as “nonsense”  
+- Using AI as a weapon, not a shortcut  
+- Caring more about results than aesthetics  
+
+If it works, it works.
+
+---
+
+## 🧪 What I’ve been messing with
+- AI development experiments  
+- LLMs and model behavior  
+- Random ideas → code → chaos → learning  
+
+---
+
+## 🛠 Tech I use
+**Languages**
+- Java
+- Python
+- C
+- C++
+
+**Tools**
+- Git & GitHub  
+- SQL  
+
+**Cloud**
+- Decent hands-on exposure  
+
+---
+
+## 🧱 Projects
+- **Carpentry**  
+- **Video to ASCII**
+
+---
+
+## 📊 GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanputhra17&show_icons=true&hide_border=true)
+
+---
+
+## 🔗 Connect
+- LinkedIn: https://linkedin.com/in/pavanputhra-segoju-23038b297  
+- Email: PAVANPUTHRA17@gmail.com
