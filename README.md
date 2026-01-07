@@ -55,3 +55,6 @@ If it works, it works.
 ## 🔗 Connect
 - LinkedIn: https://linkedin.com/in/pavanputhra-segoju-23038b297  
 - Email: PAVANPUTHRA17@gmail.com
+
+### <br clear="both">
+<img src="https://raw.githubusercontent.com/vakrahul/vakrahul/output/github-snake.svg" alt="Snake animation" />
