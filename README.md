@@ -87,7 +87,7 @@ Transforms video frames into ASCII representations
 ---
 
 ## 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/vakrahul/vakrahul/output/github-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pavanputhra17/pavanputhra17/output/github-snake.svg" alt="Snake animation" />
 
 ---
 
